@@ -15,7 +15,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.89      | 0.82  | 0.87    | 0.89       |
 
 ![alt text](./FullBody/fullBodyResnet_1.png)
 ![alt text](./FullBody/fullBodyResnet_2.png)
@@ -26,7 +26,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.87       | 0.78   | 0.81    | 0.84       |
 
 ![alt text](./FullBody/fullBodyVgg161_1.png)
 ![alt text](./FullBody/fullBodyVgg161_2.png)
@@ -36,7 +36,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.72      | 0.57   | 0.81    | 0.64        |
 
 ![alt text](./FullBody/fullBody1.png)
 ![alt text](./FullBody/fullBody2.png)
