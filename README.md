@@ -5,7 +5,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.93      | 0.87  | 0.90    | 0.92       |
 
 ![alt text](./FullBody/ensemblef.jpg)
 
