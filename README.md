@@ -1,5 +1,12 @@
 # Human Foreground-background Segmentation
 
+## 2d Unet
+![alt text](./FullBody/unet.png)
+
+## Dataset
+### Segmentation Full Body TikTok Dancing Dataset
+https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset
+
 ## Results :- 
 > Ensemble (VGG19, InceptionResnetV2) -> Unet
 
@@ -44,6 +51,13 @@
 
 ## Future Improvement
 Data Augmentation would have made the model more robust and generalized well
+
+## References
+1. Olaf Ronneberger, Philipp Fischer, and Thomas Brox   U-Net: Convolutional Networks for Biomedical (2015),
+Image Segmentation,computer Science Department and BIOSS Centre for Biological Signalling Studies,
+University of Freiburg, Germany
+
+2. https://www.tensorflow.org/guide/data Tensorflow 
 
 
 
